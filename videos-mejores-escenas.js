@@ -29,7 +29,7 @@ const videos = [
   <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
     iframe: `<iframe src="https://streamtape.com/e/dZoXMemOQysGR1/" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></iframe>`
-  },
+  }
 ];
 
 // Reversa para mostrar primero los más nuevos
