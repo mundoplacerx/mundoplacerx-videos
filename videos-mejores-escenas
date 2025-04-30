@@ -1,0 +1,82 @@
+// Lista de videos. Agrega los nuevos al INICIO para que aparezcan primero.
+const videos = [
+  {
+    titulo: "A goal into stepmom's pussy - Richelle Ryan",
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
+    iframe: <iframe src="https://streamtape.com/e/bZWr9WOkKBUPPAz/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  },
+  {
+    titulo: "Jerking Off Using Stepmoms Shampoo - Rachael Cavalli",
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
+    iframe: <iframe src="https://streamtape.com/e/mw3W8bMrGbtb3Px/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  },
+  {
+    titulo: "Step Mom Wants To Get Horny - Cherie Deville",
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
+    iframe: <iframe src="https://streamtape.com/e/px096q9jvpcWkk/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  },
+  {
+    titulo: "Pullout Training With Girlfriends Stepmom - Charlie Forde",
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
+    iframe: <iframe src="https://streamtape.com/e/AAKBMp9Y1QIXA8b/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  },
+  {
+    titulo: "My Dad’s Hot Girlfriend - Eva Angelina",
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
+    iframe: <iframe src="https://streamtape.com/e/dZoXMemOQysGR1/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  }
+];
+
+// Configuración de paginación
+const videosPorPagina = 3;
+let paginaActual = 1;
+
+function mostrarVideos(pagina) {
+  const inicio = (pagina - 1) * videosPorPagina;
+  const fin = inicio + videosPorPagina;
+  const contenedor = document.getElementById("contenedor-videos");
+
+  contenedor.innerHTML = "";
+
+  for (let i = inicio; i < fin && i < videos.length; i++) {
+    const video = videos[i];
+    contenedor.innerHTML += `
+      <h2 style="color: #ff5ba2; font-weight: bold;">${video.titulo}</h2>
+      <div style="position: relative; margin-bottom: 20px;">
+        ${video.banner}
+        <div onclick="this.parentElement.querySelector('iframe').style.display='block'; this.style.display='none';" 
+             style="position: absolute; top: 40%; left: 25%; background: rgba(0,0,0,0.4); color: white; padding: 15px 20px; border-radius: 8px; cursor: pointer; z-index: 10;">
+          Haz click aquí para continuar con el video
+        </div>
+        <div style="margin-top: 10px; display: none;">
+          ${video.iframe}
+        </div>
+      </div>
+    `;
+  }
+
+  // Crear paginación
+  const totalPaginas = Math.ceil(videos.length / videosPorPagina);
+  let paginacionHTML = "<div style='text-align:center; margin-top: 20px;'>";
+  for (let i = 1; i <= totalPaginas; i++) {
+    paginacionHTML += <button onclick="cambiarPagina(${i})" style="margin: 3px; padding: 5px 10px; border:none; background:#ff5ba2; color:#fff; cursor:pointer;">${i}</button>;
+  }
+  paginacionHTML += "</div>";
+
+  contenedor.innerHTML += paginacionHTML;
+}
+
+function cambiarPagina(pagina) {
+  paginaActual = pagina;
+  mostrarVideos(pagina);
+}
+
+// Ejecutar al cargar
+document.addEventListener("DOMContentLoaded", () => {
+  mostrarVideos(paginaActual);
+});
