@@ -38,6 +38,19 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Un gol en el coño de la madrastra - Richelle Ryan",
+    actriz: "Richelle Ryan",
+    sinopsis: `A la MILF  Richelle Ryan le encanta relajarse viendo un partido de hockey con su joven hijastro, pero nunca imaginó que el partido de hoy desataría un festín. Como fanáticos apasionados, Richelle y su hijastro se encienden cuando su equipo fracasa, y ella decide darle la vuelta a la tortilla sentándose en su cara, sumérgete en esta historia deportiva y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/LYgZ0gDp/Richelle-1.jpg",
+      "https://i.postimg.cc/NyJ1ncw1/richelle-2.png",
+      "https://i.postimg.cc/NyJ1ncw1/richelle-2.png"
+    ],
+    iframe: `<iframe src="https://streamtape.com/e/O170b662lrHG6j/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
