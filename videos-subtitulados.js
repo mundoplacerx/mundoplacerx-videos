@@ -30,6 +30,14 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+   {
+    titulo: "La madrastra quiere ponerse Caliente - Cherie Deville",
+    actriz: "Cherie Deville",
+    sinopsis: `Ella estaba lista para devolverme el favor mientras saca mi enorme polla y ansiosamente envuelve sus labios alrededor de ella de su sexy historia sin mucho preámbulo y mucha lujura, lo mejor con subtitulos en español.`,
+    iframe: `<iframe src="https://streamtape.com/e/O7LPkzaW1dfZvq1/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
