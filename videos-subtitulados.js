@@ -60,7 +60,20 @@ const videosSubtitulados = [
       "https://i.postimg.cc/nsZ1ktjn/rachaell-2.jpg",
       "https://i.postimg.cc/kVcvYhKK/rachaell-3.jpg"
     ],
-    iframe: `<iframe src="https://streamtape.com/e/QyWyKrP26Lt8j4/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: iframe: `
+  <div style="margin-bottom: 30px;">
+    <div style="color: #FF66B2; font-weight: bold; text-align: center; margin-bottom: 10px;">
+      Opción 1 - Reproductor Streamtape
+    </div>
+    <iframe src="https://streamtape.com/e/QyWyKrP26Lt8j4/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+  </div>
+  <div style="margin-bottom: 30px;">
+    <div style="color: #FF66B2; font-weight: bold; text-align: center; margin-bottom: 10px;">
+      Opción 2 - Reproductor DoodStream
+    </div>
+    <iframe width="800" height="600" src="https://do7go.com/e/t0anl813gft6" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+  </div>
+`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
