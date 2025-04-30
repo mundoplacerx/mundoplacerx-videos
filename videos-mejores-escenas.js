@@ -3,8 +3,7 @@ const videos = [
     title: "My dad’s hot girlfriend - Eva Angelina",
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
   <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`,
-    iframe: `<iframe src="https://streamtape.com/e/dZoXMemOQysGR1/" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></iframe>`
+    iframe: `<iframe src="https://streamtape.com/e/dZoXMemOQysGR1/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`
   },
   {
     titulo: "A goal into stepmom's pussy - Richelle Ryan",
