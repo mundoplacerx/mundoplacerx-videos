@@ -25,61 +25,59 @@ const videos = [
   }
 ];
 
-// Mostrar videos con paginación
+// Reversa para mostrar primero los más nuevos
+videos.reverse();
+
 const videosPorPagina = 3;
 let paginaActual = 1;
 
-function renderVideos() {
-  const contenedor = document.getElementById("contenedor-videos-mejores-escenas");
-  contenedor.innerHTML = "";
+function mostrarVideos(pagina) {
+  const contenedor = document.getElementById('videoContainer');
+  contenedor.innerHTML = '';
 
-  const inicio = (paginaActual - 1) * videosPorPagina;
+  const inicio = (pagina - 1) * videosPorPagina;
   const fin = inicio + videosPorPagina;
-  const videosPagina = [...videos].reverse().slice(inicio, fin);
+  const videosPagina = videos.slice(inicio, fin);
 
   videosPagina.forEach(video => {
-    const html = `
-      <div style="margin-bottom: 40px;">
-        <h2 style="color: #ff4d88; font-weight: bold; text-align: center;">${video.titulo}</h2>
-        <div style="position: relative;">
-          <div style="position: absolute; top: 0; left: 0; right: 0; z-index: 10;">
-            ${video.banner}
-          </div>
-          ${video.iframe}
-        </div>
-        <p style="color: #ccc; text-align: center; margin-top: 15px;">
-          Haz click en el botón del anuncio para continuar con el video. Disculpa la publicidad, es lo que permite que esta página siga existiendo. 
-          Si deseas ver este video sin anuncios o tener acceso a contenido personalizado, puedes escribirnos en nuestra 
-          <a href="https://www.mundoplacerx.com/p/contacto.html" style="color: #ff4d88; font-weight: bold;">página de contacto</a>.
-        </p>
-      </div>`;
-    contenedor.innerHTML += html;
+    const videoHTML = `
+      <div style="margin-bottom: 50px;">
+        <h2 style="color: #ff4da6; font-weight: bold;">${video.titulo}</h2>
+        ${video.banner}
+        ${video.iframe}
+      </div>
+    `;
+    contenedor.innerHTML += videoHTML;
   });
 
-  renderPaginacion();
+  mostrarPaginacion();
 }
 
-function renderPaginacion() {
-  const paginacion = document.getElementById("paginacion-videos");
-  paginacion.innerHTML = "";
-
+function mostrarPaginacion() {
   const totalPaginas = Math.ceil(videos.length / videosPorPagina);
+  const paginacionHTML = document.createElement('div');
+  paginacionHTML.style.marginTop = '30px';
+  paginacionHTML.style.textAlign = 'center';
 
   for (let i = 1; i <= totalPaginas; i++) {
-    const btn = document.createElement("button");
-    btn.innerText = i;
-    btn.style.margin = "0 5px";
-    btn.style.padding = "6px 12px";
-    btn.style.border = "1px solid #ccc";
-    btn.style.background = i === paginaActual ? "#ff4d88" : "#f9f9f9";
-    btn.style.color = i === paginaActual ? "#fff" : "#333";
-    btn.style.cursor = "pointer";
-    btn.onclick = () => {
+    const boton = document.createElement('button');
+    boton.innerText = i;
+    boton.style.margin = '0 5px';
+    boton.style.padding = '5px 10px';
+    boton.style.border = 'none';
+    boton.style.backgroundColor = i === paginaActual ? '#ff4da6' : '#ccc';
+    boton.style.color = i === paginaActual ? '#fff' : '#000';
+    boton.style.cursor = 'pointer';
+    boton.onclick = () => {
       paginaActual = i;
-      renderVideos();
+      mostrarVideos(paginaActual);
     };
-    paginacion.appendChild(btn);
+    paginacionHTML.appendChild(boton);
   }
+
+  document.getElementById('videoContainer').appendChild(paginacionHTML);
 }
 
-document.addEventListener("DOMContentLoaded", renderVideos);
+document.addEventListener('DOMContentLoaded', () => {
+  mostrarVideos(paginaActual);
+});
