@@ -123,7 +123,13 @@ function mostrarVideos(pagina) {
       <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
         ${video.banner}
         <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
-        <div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">${video.iframe}</div>
+        <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
+  ${video.banner}
+  <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="${video.iframe.match(/src="([^"]+)"/)[1]}" frameborder="0" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
+  </div>
+</div>
       </div>
       <div style="max-width: 800px; margin: 0 auto 60px auto; text-align: center; color: #D3D3D3; font-size: 14px; line-height: 1.6; padding: 0 10px;">
         Disculpa por la publicidad, agradecemos tu paciencia. Estos anuncios nos permiten seguir creciendo y ofreciendo contenido gratuito.<br><br>
