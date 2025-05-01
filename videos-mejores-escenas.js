@@ -13,25 +13,25 @@ const videos = [
   },
     {
     titulo: "Step Mom Wants To Get Horny - Cherie Deville",
-    iframe: `<iframe src="https://streamtape.com/e/px096q9jvpcWkk/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/yed4lvlp33ea" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
     {
     titulo: "Jerking Off Using Stepmoms Shampoo - Rachael Cavalli",
-    iframe: `<iframe src="https://streamtape.com/e/mw3W8bMrGbtb3Px/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/3vsg9wdtqqu2" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
     {
     titulo: "A goal into stepmom's pussy - Richelle Ryan",
-    iframe: `<iframe src="https://streamtape.com/e/bZWr9WOkKBUPPAz/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/xocvjtlvrfxe" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
   {
     titulo: "Step Mom Gives Her Military Step Son Much Needed - Adira Allure",
-    iframe: `<iframe src="https://voe.sx/e/vgcdczid5ou0" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/vgcdczid5ou0" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
