@@ -78,6 +78,19 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Profesora de español cariñosa - Franceska Jaimes",
+    actriz: "Franceska Jaimes",
+    sinopsis: `Cuando Xander regresa de Sudamérica, tiene historias locas. Le cuenta a su amigo cómo conoció a una mujer hermosa que le cambió la vida. Ella le permitió hacerle todo tipo de cosas... Bueno, resulta que esta maestra solicitó trabajo en la misma escuela de Xander como la nueva profesora de español... Sumegerte en esta aventura y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/ftV2Gkpj/franchesca1.png",
+      "https://i.postimg.cc/XpfHSRHh/franchesca2.png",
+      "https://i.postimg.cc/PvZ6q9tC/franchesca3.jpg",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/iyoz4emoqshq" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
