@@ -47,7 +47,7 @@ const videosSubtitulados = [
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png",
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png"
     ],
-    iframe: `<iframe src="https://voe.sx/e/csnj4sumknr7" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="<iframe src="https://streamtape.com/e/O170b662lrHG6j/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
@@ -73,7 +73,7 @@ const videosSubtitulados = [
     "https://i.postimg.cc/nsZ1ktjn/rachaell-2.jpg",
     "https://i.postimg.cc/kVcvYhKK/rachaell-3.jpg"
   ],
-  iframe: `<iframe width="600" height="480" src="//mxdrop.to/e/el10mg3qc6xpzq" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>`,
+  iframe: `<iframe src="https://voe.sx/e/csnj4sumknr7" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
   banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
            <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
