@@ -47,7 +47,8 @@ const videosSubtitulados = [
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png",
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png"
     ],
-    iframe: `<iframe src="<iframe src="https://streamtape.com/e/O170b662lrHG6j/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/csnj4sumknr7" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
+`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
