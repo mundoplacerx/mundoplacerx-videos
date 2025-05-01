@@ -65,6 +65,21 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "El hijastro le da a su madrastra el alivio que tanto necesitaba - Adira Allure",
+    actriz: "Adira Allure",
+    sinopsis: `Ese padre inútil lo volvió a hacer. Dejó a la belleza de su esposa y Nathan siente lástima por su madrastra, Adira. Ella siempre ha estado ahí para él. ¿Cómo es posible que su padre no aprecie a una madrastra tan sexy y guarrilla? Nathan la cuidará y consolara uy bien, y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/WhQVVFs3/adira.png",
+      "https://i.postimg.cc/mtc4KNfJ/adira-1.png",
+      "https://i.postimg.cc/DWhKW9J3/adira-2.png"
+      "https://i.postimg.cc/TKg63dPc/adira-3.png"
+    ],
+    iframe: `<iframe src="https://voe.sx/e/iyoz4emoqshq" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen></iframe>
+`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
