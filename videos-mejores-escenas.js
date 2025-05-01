@@ -35,6 +35,12 @@ const videos = [
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Spanish Teacher Loving - Franceska Jaimes",
+    iframe: `<iframe src="https://voe.sx/e/mg1dlfhy8ndw" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 // Reversa para mostrar primero los más nuevos
