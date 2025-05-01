@@ -9,8 +9,7 @@ const videosSubtitulados = [
       "https://i.postimg.cc/tYw9D3ZJ/charlie-3.jpg",
       "https://i.postimg.cc/kBBnx15L/charlie-4.jpg"
     ],
-    iframe: `<iframe src="https://streamtape.com/e/02j0QQGkkRfb986/" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/etpg498dc5w5" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
@@ -26,7 +25,7 @@ const videosSubtitulados = [
       "https://i.postimg.cc/FkzMj68s/eva-angelina-5.jpg",
       "https://i.postimg.cc/bdFczzSG/eva-angelina-6.jpg"
     ],
-    iframe: `<iframe src="https://streamtape.com/e/j6RegRLjL4umZj/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/kb2jcwnntj6w" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
@@ -34,7 +33,7 @@ const videosSubtitulados = [
     titulo: "La madrastra quiere ponerse Caliente - Cherie Deville",
     actriz: "Cherie Deville",
     sinopsis: `Ella estaba lista para devolverme el favor mientras saca mi enorme polla y ansiosamente envuelve sus labios alrededor de ella de su sexy historia sin mucho preámbulo y mucha lujura, lo mejor con subtitulos en español.`,
-    iframe: `<iframe src="https://streamtape.com/e/O7LPkzaW1dfZvq1/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/08dkpwkkoadp" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
@@ -47,7 +46,7 @@ const videosSubtitulados = [
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png",
       "https://i.postimg.cc/NyJ1ncw1/richelle-2.png"
     ],
-    iframe: `<iframe src="https://streamtape.com/e/O170b662lrHG6j/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>`,
+    iframe: `<iframe src="https://voe.sx/e/tocvfi12txhl" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
