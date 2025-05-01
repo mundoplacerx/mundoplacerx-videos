@@ -29,6 +29,12 @@ const videos = [
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Step Mom Gives Her Military Step Son Much Needed - Adira Allure",
+    iframe: `<iframe src="https://voe.sx/e/vgcdczid5ou0" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 // Reversa para mostrar primero los más nuevos
