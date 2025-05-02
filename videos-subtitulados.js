@@ -134,6 +134,48 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Cherie Deville - Mi madrastra es la única MILF para mí P1",
+    actriz: "Cherie Deville",
+    sinopsis: `Cherie mi madrastra toma mi computadora para revisar su correo, por lo que también se da cuenta todo mi historial de navegación y descubre mi fetiche por las MILF, a lo que se enfurece y me seduce indicándome si ella no es lo suficientemente atractiva por lo que todo se desencadena en una locura desenfrenada, acompañame a sumergirte en esta historia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/DS4R0Pns/cherie1.png",
+      "https://i.postimg.cc/4KzMb4Kx/cherie2.png",
+      "https://i.postimg.cc/jWVm7nS1/cherie3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/o2fbj6prqgg3" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Skylar Vox - Hermanastra curiosa sucumbe a los avances sexuales de su hermanastro mayor",
+    actriz: "Skylar Vox",
+    sinopsis: `Mi hermanastra Skylar interrumpe en el baño mientras me estaba duchando, sin darse cuenta cuenta que yo vi como me miraba con deseo, al rato la confronto en la cocina indicándole que me di cuenta como me observaba y me lanzo a terminar lo que ella misma provoco, acompañame a ver esta historia y lo mejor subtitulado en español.`,
+    imagenes: [
+      "https://i.postimg.cc/1nvvJ8ys/skylar1.png",
+      "https://i.postimg.cc/t7gS7NzT/skylar2.png",
+      "https://i.postimg.cc/LghN7msf/skylar3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/jjexlaprbiev" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Melanie Hicks - Madrastra está de vuelta por la polla de su hijastro y un orgasmo.",
+    actriz: "Melanie Hicks",
+    sinopsis: `Mi madrastra me toma durmiendo y me sorprende cuando la veo bajo mis sabanas, indicando que mi papa se que podríamos reanudar lo que habíamos dejado pendiente hace poco ya que el nos interrumpió, adéntrate en esta historia llena de pasión fraternal, y lo mejor con subtítulos en español.`,
+    imagenes: [
+      "hhttps://i.postimg.cc/23BWHqkG/melanie1.png",
+      "https://i.postimg.cc/kB3bLnDm/melanie2.png",
+      "https://i.postimg.cc/0bYwsLJJ/melanie3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/ezcovssngkks" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
