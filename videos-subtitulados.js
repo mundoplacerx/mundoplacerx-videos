@@ -106,6 +106,20 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Sydney Hail - Encontré el video de mi madrastra follando",
+    actriz: "Sydney Hail",
+    sinopsis: `Encuentro a mi madrastra dormida y la despierto para hacerle saber que encontré su video prohibido, al ver su angustia le realizo una propuesta que no podrá rechazar, sumérgete en esta historia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/6y7jcDBD/Sydney1.png",
+      "https://i.postimg.cc/DSLCkLJ6/sydney2.png",
+      "https://i.postimg.cc/Vd37VD65/sydney3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/h75b5amjiisx" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
