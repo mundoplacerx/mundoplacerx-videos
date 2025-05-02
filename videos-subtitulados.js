@@ -92,6 +92,20 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Carmela Clutch - Descanso de estudio con mi madrastra",
+    actriz: "Carmela Clutch",
+    sinopsis: `Mi madrastra es tan atenta que sabe lo cansado que estoy de tanto estudiar asi que decide ayudarme un poco, sumérgete en esta historia de fantasia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/QHSkZm0j/carmela-3.png",
+      "https://i.postimg.cc/jDFHLjp9/Carmela1.png",
+      "https://i.postimg.cc/0zQGkSBD/carmela2.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/1mvyizyijqle" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
