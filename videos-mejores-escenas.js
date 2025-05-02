@@ -59,6 +59,24 @@ const videos = [
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Cherie Deville - Stepmom's The Only Milf For Me P1",
+    iframe: `<iframe src="https://voe.sx/e/phgvsf2xifxo" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Skylar Vox - Curious Sister Succumbs To Big Brother's Sexual Advances",
+    iframe: `<iframe src="https://voe.sx/e/iaqwnnyj3hit" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Melanie Hicks - Mom is Back For Her Sons Cock and an Orgasm",
+    iframe: `<iframe src="https://voe.sx/e/hfzolu8qfbxh" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 // Reversa para mostrar primero los más nuevos
