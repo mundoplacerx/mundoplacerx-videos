@@ -120,6 +120,20 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Payton Preslee - Usame",
+    actriz: "Payton Preslee",
+    sinopsis: `Mi hijastra Payton Preslee es manipuladora. Demasiado lista para tener esas enormes bubbies. En cuanto ve aparecer un mensaje de mi sexy compañera de trabajo, me descubre. Un poco exigente, pero prometió no decírselo a su madre, mi esposa, así que yo, me callé y acepté el sermón de esta joven. Pensé que después de eso estaría bien, pero cuando intenté devolverle la llamada a mi compañera para tener sexo, descubrí lo astuta que puede ser esa chica pechugona: ¡cambió su número con el de mi compañera! Creo que estoy completamente jodido, hasta que, ¡escuchen esto!, ¡empieza a insinuarme! No quiere que le ponga los cuernos a su madre, así que está dispuesta a atender mis necesidades para que sea honesto. ¡Mi secreto está a salvo con ella ahora! ven y adéntrate en los confines de esta historia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/k294By1p/payton1.png",
+      "https://i.postimg.cc/WD1171Pm/payton2.png",
+      "https://i.postimg.cc/qNL7nCWM/payton3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/4vqzbsdsfacl" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
