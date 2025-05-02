@@ -167,7 +167,7 @@ const videosSubtitulados = [
     actriz: "Melanie Hicks",
     sinopsis: `Mi madrastra me toma durmiendo y me sorprende cuando la veo bajo mis sabanas, indicando que mi papa se que podríamos reanudar lo que habíamos dejado pendiente hace poco ya que el nos interrumpió, adéntrate en esta historia llena de pasión fraternal, y lo mejor con subtítulos en español.`,
     imagenes: [
-      "hhttps://i.postimg.cc/23BWHqkG/melanie1.png",
+      "https://i.postimg.cc/23BWHqkG/melanie1.png",
       "https://i.postimg.cc/kB3bLnDm/melanie2.png",
       "https://i.postimg.cc/0bYwsLJJ/melanie3.png",
     ],
