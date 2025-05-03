@@ -77,6 +77,24 @@ const videos = [
     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Kenzie Reeves - Camping is Boring",
+    iframe: `<iframe src="https://voe.sx/e/kkmza9hgujgm" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Helena Price - Horny Mommy Consoles Heart Broken Son",
+    iframe: `<iframe src="https://voe.sx/e/i3xtmqwnyowa" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Havana Bleu - Mean Mom Gets What's Coming To Her From Big Dick Son",
+    iframe: `<iframe src="https://voe.sx/e/lcmcbjjrrnk6" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+    banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 // Reversa para mostrar primero los más nuevos
