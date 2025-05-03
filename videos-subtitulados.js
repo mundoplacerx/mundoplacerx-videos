@@ -176,6 +176,48 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Kenzie Reeves - Acampar es aburrido.",
+    actriz: "Kenzie Reeves",
+    sinopsis: `Mi hermanastra Kenzie, entra a mi tienda de campaña a intentar motivarme por que estaba muy aburrido por acampar, al no lograr su objetivo propone jugar "verdad o reto" lo que ocasiona que esta historia de in giro inesperado pero tenemos que ser cautelosos nuestros padres están acampando en la tienda de enseguida... sumérgete en esta historia de camping y lo mejor con subtítulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/tnyksXkL/kenzie1.png",
+      "https://i.postimg.cc/bSTTbKFd/kenzie2.png",
+      "https://i.postimg.cc/pyHMfz6t/kenzie3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/jil75bsefpps" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Helena Price - Madrastra caliente consuela a su hijastro con el corazón roto",
+    actriz: "Helena Price",
+    sinopsis: `Mi madrastra siempre sabe la mejor manera de hacerme sentir mejor. Después de que mi novia rompió conmigo, ella estuvo allí para ayudarme a aliviar algo de mi tensión, me recuesto un poco para despejar la mente y me despierto con ella frotándose su coño mientras acariciaba mi polla dura como una roca, asi que viendo la situación no podía hacer mas que dejar que ella me aliviara mis penas amorosas.... sumérgete en esta historia y lo mejor con subtitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/CBbJMZGG/helena1.png",
+      "https://i.postimg.cc/Z9GVhPdY/helena2.png",
+      "https://i.postimg.cc/wty0P43b/helena3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/vv1v0ubvhv0g" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Havana Bleu - Una madrastra malvada recibe lo que se merece de su hijastro.",
+    actriz: "Havana Bleu",
+    sinopsis: `Mi madrastra tiene una actitud terrible, nos trata muy mal a mi padrastro y a mí. asi que decidi tener una charla especial con ella, por que no soporto su actitud altanera y mandona, la confronto en el baño y le digo que la deseo. Amenaza con contárselo a mi papa pero no me importa, sé ella no le ha sido fiel y no tengo ningún problema en contárselo. por consiguiente me doy cuenta rápidamente de que quiero y puedo conseguir más de ella, veamos que estará dispuesta a hacer para que no le delate sus infidelidades... sumérgete en esa interesante historia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/ZCH7yy1j/havana1.png",
+      "https://i.postimg.cc/75QKKrP2/havana2.png",
+      "https://i.postimg.cc/ZWqfP5mm/havana3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/svpzc1klju4y" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
