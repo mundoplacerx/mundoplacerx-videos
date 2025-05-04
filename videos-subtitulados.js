@@ -218,6 +218,47 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Jane Cane - Madrastra de uso gratuito",
+    actriz: "Jane Cane",
+    sinopsis: `Jane es mi madrastra y me deja darle uso gratuito su placer poco le importa es tan dedica a mi que simplemente se preocupa por que yo quede bien... acompañame ver esta historia y lo mejor con subtítulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/TpsmvQZz/jane1.png",
+      "https://i.postimg.cc/1nyVrdqq/jane2.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/fcg6evxes26y" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Eva Long - Es cosa de madrastras Vol. 8",
+    actriz: "Eva Long",
+    sinopsis: `Llego temprano del trabajo y encuentro a mi madrastra tomando el sol en su bikini, cuando se da cuenta que la estoy espiando lejos de enojarse, me indica que esta noche es la celebración de su aniversario numero 10 con mi padre, por lo cual tiene un lindo vestido para la ocasión, llegada la hora de la celebración mi padre le cancela la celebración por lo que muy triste se me insinúa y me dice que ahora que hará con su vajina? ya que la había puesto digna para la ocasión, sumérgete en esta historia y lo mejor con subtítulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/c648KVZq/longfacebook.png",
+      "https://i.postimg.cc/gX4XSKVB/long1.png",
+      "https://i.postimg.cc/hQjJH7M4/long2.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/c3sz78er3hli" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Kendra Lust - Es la mamá sexy de mi amigo Alan, es el amigo de su hijo.",
+    actriz: "Kendra Lust",
+    sinopsis: `Kendra Lust consigue que Alan, el amigo de su hijo, la lleve al resort. Alan se alegró de poder hacerlo, pues quería pasar un rato a solas con Kendra. Siempre le ha gustado y cree que podría aprovechar la oportunidad mientras están solos y su plan efectivamente funcionara...Sumérgete en esta historia y lo mejor con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/4Yz325Zb/kendra1.jpg",
+      "https://i.postimg.cc/5Hb2hC2c/kendra2.jpg",
+      "https://i.postimg.cc/R3dZ4ZWW/kendrafacebook.jpg",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/gdz5x3h6rtbo" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
