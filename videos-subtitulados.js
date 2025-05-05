@@ -259,6 +259,34 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Sarah Vandella - Selfie de la polla de mi hijastro",
+    actriz: "Sarah Vandella",
+    sinopsis: `El juego termina con un intercambio de selfies con su hijastro donde obviamente todo termina muy bien.... y lo mejor con subtitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/NLXnrHjH/sara1.png",
+      "https://i.postimg.cc/YGGsR4NT/sara2.png",
+      "https://i.postimg.cc/d7SfGRC8/sara3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/mjikr1ef1oc5" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Payton Preslee - ¿Qué podemos hacer adentro? 3 - Un último día especial",
+    actriz: "Payton Preslee",
+    sinopsis: `Mi madrastra esta aburrida por el confinamiento, me dice que ya termino de armar el rompecabezas, ahora quiere romperme la cabeza a mi con subitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/34sbcKnN/patytonp1.png",
+      "https://i.postimg.cc/5Q8kcZR3/patytonp2.png",
+      "https://i.postimg.cc/zLfML2yz/patytonp3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/8ryeqwzmc38r" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
 
 videosSubtitulados.reverse();
