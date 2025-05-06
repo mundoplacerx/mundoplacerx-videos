@@ -339,30 +339,41 @@ const videosSubtitulados = [
  }
  
  function mostrarPaginacion() {
-   const totalPaginas = Math.ceil(videosSubtitulados.length / videosPorPagina);
-   const paginacionHTML = document.createElement('div');
-   paginacionHTML.style.marginTop = '30px';
-   paginacionHTML.style.textAlign = 'center';
- 
-   for (let i = 1; i <= totalPaginas; i++) {
-     const boton = document.createElement('button');
-     boton.innerText = i;
-     boton.style.margin = '0 5px';
-     boton.style.padding = '5px 10px';
-     boton.style.border = 'none';
-     boton.style.backgroundColor = i === paginaActual ? '#ff4da6' : '#ccc';
-     boton.style.color = i === paginaActual ? '#fff' : '#000';
-     boton.style.cursor = 'pointer';
-     boton.onclick = () => {
-       paginaActual = i;
-       mostrarVideos(paginaActual);
-     };
-     paginacionHTML.appendChild(boton);
-   }
- 
-   document.getElementById('videoContainer').appendChild(paginacionHTML);
- }
- 
- document.addEventListener('DOMContentLoaded', () => {
-   mostrarVideos(paginaActual);
- });
+  const totalPaginas = Math.ceil(videosSubtitulados.length / videosPorPagina);
+  const paginacionHTML = document.createElement('div');
+  paginacionHTML.style.marginTop = '30px';
+  paginacionHTML.style.textAlign = 'center';
+
+  for (let i = 1; i <= totalPaginas; i++) {
+    const boton = document.createElement('button');
+    boton.innerText = i;
+    boton.style.margin = '0 5px';
+    boton.style.padding = '5px 10px';
+    boton.style.border = 'none';
+    boton.style.backgroundColor = i === paginaActual ? '#ff4da6' : '#ccc';
+    boton.style.color = i === paginaActual ? '#fff' : '#000';
+    boton.style.cursor = 'pointer';
+    boton.onclick = () => {
+      paginaActual = i;
+      mostrarVideos(paginaActual);
+
+      // Desplazar el scroll hasta después del párrafo introductorio
+      const introParrafoSubtitulados = document.getElementById('introParrafoSubtitulados');
+      if (introParrafoSubtitulados) {
+        // Desplazarse justo después del párrafo introductorio
+        window.scrollTo({
+          top: introParrafoSubtitulados.offsetTop + introParrafoSubtitulados.offsetHeight,
+          behavior: 'smooth'
+        });
+      }
+    };
+    paginacionHTML.appendChild(boton);
+  }
+
+  document.getElementById('videoContainer').appendChild(paginacionHTML);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  mostrarVideos(paginaActual);
+});
+
