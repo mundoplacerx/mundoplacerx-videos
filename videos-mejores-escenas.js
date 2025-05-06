@@ -173,6 +173,12 @@ function mostrarPaginacion() {
     boton.onclick = () => {
       paginaActual = i;
       mostrarVideos(paginaActual);
+
+      // Scroll hacia arriba al cambiar de página
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     };
     paginacionHTML.appendChild(boton);
   }
