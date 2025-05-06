@@ -174,11 +174,15 @@ function mostrarPaginacion() {
       paginaActual = i;
       mostrarVideos(paginaActual);
 
-      // Scroll hacia arriba al cambiar de página
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
+  // Desplazar el scroll hasta después del párrafo introductorio
+      const introParrafo = document.getElementById('introParrafo');
+      if (introParrafo) {
+        // Desplazarse justo después del párrafo introductorio
+        window.scrollTo({
+          top: introParrafo.offsetTop + introParrafo.offsetHeight,
+          behavior: 'smooth'
+        });
+      }
     };
     paginacionHTML.appendChild(boton);
   }
