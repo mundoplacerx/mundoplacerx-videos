@@ -339,7 +339,7 @@ function mostrarVideos(pagina) {
 }
 
 function mostrarPaginacion() {
-  const totalPaginas = Math.ceil(videosSubtitulados.length / videosPorPagina);
+  const totalPaginas = Math.ceil(videos.length / videosPorPagina);
   const paginacionHTML = document.createElement('div');
   paginacionHTML.style.marginTop = '30px';
   paginacionHTML.style.textAlign = 'center';
@@ -356,6 +356,16 @@ function mostrarPaginacion() {
     boton.onclick = () => {
       paginaActual = i;
       mostrarVideos(paginaActual);
+
+      // Desplazar el scroll hasta después del párrafo introductorio
+      const introParrafo = document.getElementById('introParrafo');
+      if (introParrafo) {
+        // Desplazarse justo después del párrafo introductorio
+        window.scrollTo({
+          top: introParrafo.offsetTop + introParrafo.offsetHeight,
+          behavior: 'smooth'
+        });
+      }
     };
     paginacionHTML.appendChild(boton);
   }
