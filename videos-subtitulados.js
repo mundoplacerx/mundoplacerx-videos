@@ -288,91 +288,81 @@ const videosSubtitulados = [
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
 ];
-
-videosSubtitulados.reverse();
-
-const videosPorPagina = 3;
-let paginaActual = 1;
-
-function mostrarVideos(pagina) {
-  const contenedor = document.getElementById('videoContainer');
-  contenedor.innerHTML = '';
-
-  const inicio = (pagina - 1) * videosPorPagina;
-  const fin = inicio + videosPorPagina;
-  const videosPagina = videosSubtitulados.slice(inicio, fin);
-
-  videosPagina.forEach(video => {
-    const imagenesHTML = (video.imagenes || []).map(src =>
-      `<img src="${src}" style="max-width: 48%; height: auto; border-radius: 10px;" />`
-    ).join('');
-
-    const videoHTML = `
-      <div style="color:#e0e0e0; font-family: Arial, sans-serif; font-size: 16px; text-align: justify; line-height: 1.7; padding: 10px; max-width: 800px; margin: auto;">
-        <h2 style="color:#ff4dd2; text-align: center;">${video.titulo}</h2>
-        <p style="text-align:center;"><strong style="color:#ff4dd2;">Actriz:</strong> ${video.actriz}</p>
-        <p>${video.sinopsis}</p>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">${imagenesHTML}</div>
-        <p style="text-align: center; margin-top: 20px;"><strong style="color:#ff4dd2;">Enlace de descarga:</strong> (Próximamente)</p>
-      </div>
-      <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
-        ${video.banner}
-        <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
-        <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
-  ${video.banner}
-  <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="${video.iframe.match(/src="([^"]+)"/)[1]}" frameborder="0" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
-  </div>
-</div>
-      </div>
-      <div style="max-width: 800px; margin: 0 auto 60px auto; text-align: center; color: #D3D3D3; font-size: 14px; line-height: 1.6; padding: 0 10px;">
-        Disculpa por la publicidad, agradecemos tu paciencia. Estos anuncios nos permiten seguir creciendo y ofreciendo contenido gratuito.<br><br>
-        Si deseas no tener problemas con anuncios y ver tu video sin interrupciones o recibir videos personalizados,<br>
-        déjame un mensaje en nuestra página de <a href="https://www.mundoplacerx.com/p/contacto.html" style="color: #FF66B2; font-weight: bold;" target="_blank">contacto</a>.
-      </div>
-    `;
-    contenedor.innerHTML += videoHTML;
-  });
-
-  mostrarPaginacion();
-}
-
-function mostrarPaginacion() {
-  const totalPaginas = Math.ceil(videos.length / videosPorPagina);
-  const paginacionHTML = document.createElement('div');
-  paginacionHTML.style.marginTop = '30px';
-  paginacionHTML.style.textAlign = 'center';
-
-  for (let i = 1; i <= totalPaginas; i++) {
-    const boton = document.createElement('button');
-    boton.innerText = i;
-    boton.style.margin = '0 5px';
-    boton.style.padding = '5px 10px';
-    boton.style.border = 'none';
-    boton.style.backgroundColor = i === paginaActual ? '#ff4da6' : '#ccc';
-    boton.style.color = i === paginaActual ? '#fff' : '#000';
-    boton.style.cursor = 'pointer';
-    boton.onclick = () => {
-      paginaActual = i;
-      mostrarVideos(paginaActual);
-
-      // Desplazar el scroll hasta después del párrafo introductorio
-      const introParrafo = document.getElementById('introParrafo');
-      if (introParrafo) {
-        // Desplazarse justo después del párrafo introductorio
-        window.scrollTo({
-          top: introParrafo.offsetTop + introParrafo.offsetHeight,
-          behavior: 'smooth'
-        });
-      }
-    };
-    paginacionHTML.appendChild(boton);
-  }
-
-  document.getElementById('videoContainer').appendChild(paginacionHTML);
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-  mostrarVideos(paginaActual);
-});
+ 
+ videosSubtitulados.reverse();
+ 
+ const videosPorPagina = 3;
+ let paginaActual = 1;
+ 
+ function mostrarVideos(pagina) {
+   const contenedor = document.getElementById('videoContainer');
+   contenedor.innerHTML = '';
+ 
+   const inicio = (pagina - 1) * videosPorPagina;
+   const fin = inicio + videosPorPagina;
+   const videosPagina = videosSubtitulados.slice(inicio, fin);
+ 
+   videosPagina.forEach(video => {
+     const imagenesHTML = (video.imagenes || []).map(src =>
+       `<img src="${src}" style="max-width: 48%; height: auto; border-radius: 10px;" />`
+     ).join('');
+ 
+     const videoHTML = `
+       <div style="color:#e0e0e0; font-family: Arial, sans-serif; font-size: 16px; text-align: justify; line-height: 1.7; padding: 10px; max-width: 800px; margin: auto;">
+         <h2 style="color:#ff4dd2; text-align: center;">${video.titulo}</h2>
+         <p style="text-align:center;"><strong style="color:#ff4dd2;">Actriz:</strong> ${video.actriz}</p>
+         <p>${video.sinopsis}</p>
+         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">${imagenesHTML}</div>
+         <p style="text-align: center; margin-top: 20px;"><strong style="color:#ff4dd2;">Enlace de descarga:</strong> (Próximamente)</p>
+       </div>
+       <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
+         ${video.banner}
+         <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
+         <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto 40px auto;">
+   ${video.banner}
+   <div style="position: absolute; top: 8px; left: 0; width: 100%; text-align: center; color: #FF66B2; font-size: 18px; font-weight: bold; z-index: 10;">Míralo online</div>
+   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+     <iframe src="${video.iframe.match(/src="([^"]+)"/)[1]}" frameborder="0" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
+   </div>
+ </div>
+       </div>
+       <div style="max-width: 800px; margin: 0 auto 60px auto; text-align: center; color: #D3D3D3; font-size: 14px; line-height: 1.6; padding: 0 10px;">
+         Disculpa por la publicidad, agradecemos tu paciencia. Estos anuncios nos permiten seguir creciendo y ofreciendo contenido gratuito.<br><br>
+         Si deseas no tener problemas con anuncios y ver tu video sin interrupciones o recibir videos personalizados,<br>
+         déjame un mensaje en nuestra página de <a href="https://www.mundoplacerx.com/p/contacto.html" style="color: #FF66B2; font-weight: bold;" target="_blank">contacto</a>.
+       </div>
+     `;
+     contenedor.innerHTML += videoHTML;
+   });
+ 
+   mostrarPaginacion();
+ }
+ 
+ function mostrarPaginacion() {
+   const totalPaginas = Math.ceil(videosSubtitulados.length / videosPorPagina);
+   const paginacionHTML = document.createElement('div');
+   paginacionHTML.style.marginTop = '30px';
+   paginacionHTML.style.textAlign = 'center';
+ 
+   for (let i = 1; i <= totalPaginas; i++) {
+     const boton = document.createElement('button');
+     boton.innerText = i;
+     boton.style.margin = '0 5px';
+     boton.style.padding = '5px 10px';
+     boton.style.border = 'none';
+     boton.style.backgroundColor = i === paginaActual ? '#ff4da6' : '#ccc';
+     boton.style.color = i === paginaActual ? '#fff' : '#000';
+     boton.style.cursor = 'pointer';
+     boton.onclick = () => {
+       paginaActual = i;
+       mostrarVideos(paginaActual);
+     };
+     paginacionHTML.appendChild(boton);
+   }
+ 
+   document.getElementById('videoContainer').appendChild(paginacionHTML);
+ }
+ 
+ document.addEventListener('DOMContentLoaded', () => {
+   mostrarVideos(paginaActual);
+ });
