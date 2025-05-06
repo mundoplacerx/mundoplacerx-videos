@@ -322,7 +322,7 @@ const videosSubtitulados = [
     imagenes: [
       "https://i.postimg.cc/56GqxX17/richelle1.png",
       "https://i.postimg.cc/kBDv3QrR/richelle2.png",
-      "https://i.postimg.cc/zLfML2yz/patytonp3.png",
+      "https://i.postimg.cc/grgHTM7P/richelle3.png",
     ],
     iframe: `<iframe src="https://voe.sx/e/ybo3nhs2fcnf" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
     `,
