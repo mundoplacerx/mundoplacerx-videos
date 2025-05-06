@@ -120,8 +120,20 @@ const videos = [
               <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
    },
    {
-     titulo: "Payton Preslee - What We Can Do Inside? 3 - One Last Special Day.",
-     iframe: `<iframe src="https://voe.sx/e/ag1ahzaekldv" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+     titulo: "Melanie Hicks - A New Beginning.",
+     iframe: `<iframe src="https://voe.sx/l6wxq8k8hghw" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+   },
+  {
+     titulo: "Sydney Hail - My Horny Stepmom 3 - Mommy Swallows.",
+     iframe: `<iframe src="https://voe.sx/e/8qzwvxzxbxu7" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+     banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
+              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+   },
+   {
+     titulo: "Richelle Ryan - Eye Cover Lover.",
+     iframe: `<iframe src="https://voe.sx/e/ovj8tr9grrer" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
      banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
               <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
    },
