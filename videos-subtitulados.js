@@ -287,6 +287,48 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Melanie Hicks - Un nuevo comienzo.",
+    actriz: "Melanie Hicks",
+    sinopsis: `El hijastro lo volvio a hacer, no le importo que fuera su madrastra y que le diera otra oportunidad, un nuevo comienzo no funciono en esta ocasion miralo completo y lo mejor con subtitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/K3jBb2Wh/melanie1.png",
+      "https://i.postimg.cc/k6fKL4fy/melanie2.png",
+      "https://i.postimg.cc/cK7QMT32/melanie3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/kuzxvwrwqqpq" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Sydney Hail - Mi madrastra cachonda 3.",
+    actriz: "Sydney Hail",
+    sinopsis: `Mi madrastra me encuentra jugando con mis juguetes pero me pide despues que juegue con ella, con subtitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/gXY3MRqJ/sidney1.png",
+      "https://i.postimg.cc/Hry0jTkp/sidney2.png",
+      "https://i.postimg.cc/hJRLdNXV/sidney3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/li2gosh6hd1d" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Richelle Ryan - Amante de las cubiertas para los ojos",
+    actriz: "Richelle Ryan",
+    sinopsis: `Mi madrastra me descubre haciendo cosas malas mientras ella habla por telefono con mi papa, pero alcontrario de delaterme decide ayudarme mientras ella sigue hablando con el, con subitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/56GqxX17/richelle1.png",
+      "https://i.postimg.cc/kBDv3QrR/richelle2.png",
+      "https://i.postimg.cc/zLfML2yz/patytonp3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/ybo3nhs2fcnf" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
  
  videosSubtitulados.reverse();
