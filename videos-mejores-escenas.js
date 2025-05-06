@@ -121,7 +121,7 @@ const videos = [
    },
    {
      titulo: "Melanie Hicks - A New Beginning.",
-     iframe: `<iframe src="https://voe.sx/l6wxq8k8hghw" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
+     iframe: `<iframe src="https://voe.sx/e/l6wxq8k8hghw" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
      banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
               <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
    },
