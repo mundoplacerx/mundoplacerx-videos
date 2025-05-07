@@ -137,7 +137,6 @@ const videos = [
      banner: `<script type="text/javascript">juicy_adzone = '1089718';</script>
               <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
    },
-   },
   {
      titulo: "Alexis Fawx - Son Caught Mom Practicing Her Stripptease.",
      iframe: `<iframe src="https://voe.sx/e/7krcy1dxzoi1" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>`,
