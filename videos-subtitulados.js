@@ -329,6 +329,33 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Alexis Fawx - Hijastro Pilló A Su Madrastra Practicando Su Streptease",
+    actriz: "Alexis Fawx",
+    sinopsis: `Hijastro encuentra a su madrastra practicando para su striptease por lo que decide ayudarle, con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/YhDs099G/Captura-de-pantalla-2025-05-07-234159.png",
+      "https://i.postimg.cc/Bj8wK0Lh/Captura-de-pantalla-2025-05-07-234213.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/ni69yplfyqwn" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Rachael Cavalli - Lección De Sexo Para El Novio De Mi Hija",
+    actriz: "Rachael Cavalli",
+    sinopsis: `Rachel es una suegra considerada, preocupada por la realcion de su hija le dice a su yerno que esta le manifestó que el no se estaba comportando a la altura en la cama por lo que decide darle unas clases personalizadas y asi salvar su realcion. con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/3dxq3pKQ/Captura-de-pantalla-2025-05-07-012135.png",
+      "https://i.postimg.cc/v4p27N5G/Captura-de-pantalla-2025-05-07-012219.png",
+      "https://i.postimg.cc/Y4YndzxY/Captura-de-pantalla-2025-05-07-012331.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/11jdlrdu1woz" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
  
  videosSubtitulados.reverse();
