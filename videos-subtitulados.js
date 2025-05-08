@@ -356,6 +356,34 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Natasha Nice - Entrenamiento De Resistencia Para Su Hijastro",
+    actriz: "Natasha Nice",
+    sinopsis: `Le confieso a mi madrastra que estoy teniendo problemas de eyaculacion precoz, cada que toco a mi novia exploto a chorros por lo que muy consideradamente me dice que me dará un entrenamiento de resistencia, vamos a ver de que se trata, con subtítulos en español..`,
+    imagenes: [
+      "https://i.postimg.cc/YLF2DVhM/nice.png",
+      "https://i.postimg.cc/VJWvc34N/nice2.png",
+      "https://i.postimg.cc/bGYJY3F9/nice3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/aoi82ezpw4r6" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Cherie Deville - Cita De Mamá Cancelada",
+    actriz: "Cherie Deville",
+    sinopsis: `La madrastra Cherie le informa a su hijastro que ya no esta con su padre por lo que ahora el es el hombre de la casa por lo que necesita que se comporte como tal, con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/CZvKRk3T/cherie1.png",
+      "https://i.postimg.cc/YGhCYj74/cherie2.png",
+      "https://i.postimg.cc/cg24mZ1F/cherie3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/ag5ars47mnjn" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
  
  videosSubtitulados.reverse();
