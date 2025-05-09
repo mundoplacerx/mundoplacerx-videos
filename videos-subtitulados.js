@@ -384,6 +384,34 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Eva Long - El Duro Despertar De Una Madrastra",
+    actriz: "Eva Long",
+    sinopsis: `El hijastro encuentra durmiendo a su madrastra y decide despertarla de una forma muy amorosa, con subtitulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/Lq3T17LQ/evalong.png",
+      "https://i.postimg.cc/CBvsvqvj/evalong1.png",
+      "https://i.postimg.cc/34rZCBZ8/evalong3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/k3oq4nfwruny" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+  {
+    titulo: "Helena Price - Di Sí A Desvestirte",
+    actriz: "Helena Price",
+    sinopsis: `Luego de tanto apurarla para que se vistiera rápido, al verla salir con ese vestido tan sexy no pude soportar las ganas de tocarla lo bueno fue que a ella también le gusto con subtítulos en español`,
+    imagenes: [
+      "https://i.postimg.cc/nMP1Bq9x/price1.png",
+      "https://i.postimg.cc/kBRvcDWb/price2.png",
+      "https://i.postimg.cc/qNfXZ0GZ/price3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/rf61vrocsjwu" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
  
  videosSubtitulados.reverse();
