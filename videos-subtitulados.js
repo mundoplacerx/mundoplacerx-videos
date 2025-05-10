@@ -412,6 +412,34 @@ const videosSubtitulados = [
     banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
              <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
   },
+  {
+    titulo: "Kendra Lust - Hijo Rastrero",
+    actriz: "Kendra Lust",
+    sinopsis: `Kendra se da cuenta que su hijastro la estaba observando mientras se vestia, por lo que cuando termino y lo vio en la sala se decidio a confrontarlo, pero lejos de hacerle reclamos le pregunto si había conseguido algunas buenas fotos de ella, por lo que le dio entrada para que termine lo que comenzó, con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/87hd23Kk/lust1.png",
+      "https://i.postimg.cc/gwmymDQV/lust2.png",
+      "https://i.postimg.cc/qtwsRKH9/lust3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/phdftozonzb2" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
+   {
+    titulo: "Linzee Ryder - Ajustando La Actitud De Mamá",
+    actriz: "Linzee Ryder",
+    sinopsis: `Linzee mi madrastra llega frustrada por que mi papa le cancelo una cita que tenia con ella, yo hace rato le había dicho que necesitaba el carro prestado a lo que ella tomo la situación a su conveniencia y a cambio de prestarme el carro me pidió que le diera polla por que lo necesitaba, con subtitulos en español.`,
+    imagenes: [
+      "https://i.postimg.cc/s1fN5qyh/linzee1.png",
+      "https://i.postimg.cc/2L59mbTw/linzee2.png",
+      "https://i.postimg.cc/G4D7c1PZ/linzee3.png",
+    ],
+    iframe: `<iframe src="https://voe.sx/e/crosxxvl478n" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    `,
+    banner: `<script type="text/javascript">juicy_adzone = '1089716';</script>
+             <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>`
+  },
 ];
  
  videosSubtitulados.reverse();
